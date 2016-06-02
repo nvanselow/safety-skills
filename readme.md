@@ -1,6 +1,6 @@
 ## Safety Skills Program (Example Code)
 
-I developed this program as part of a research project which is now published in
+I developed this program as part of a research project that is now published in
 the [Journal of Applied Behavior Analysis](http://onlinelibrary.wiley.com/doi/10.1002/jaba.105/abstract).
 
 The program was built using Adobe Flash and actionscript. At the time, I chose this option
